@@ -55,7 +55,7 @@ The facade checks the results of ingredient validation, order validation, and pa
 
 1. Open the project in IntelliJ IDEA.
 2. Make sure a Java JDK is configured.
-3. Open `Main.java`.
+3. Open `src/Main.java`.
 4. Run the `main()` method.
 
 The program prints the ordering process to the console.
